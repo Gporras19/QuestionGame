@@ -1,2 +1,2 @@
-# QuestionsGame
+# QuestionGame
 Inicio del juego de preguntas
